@@ -40,7 +40,7 @@ public class TestandoListas {
 
 		aulas.add("Aumentando o conhecimento");
 		System.out.println(aulas);
-		
+
 		Collections.sort(aulas);
 		System.out.println(aulas);
 	}
